@@ -1,6 +1,7 @@
 # Exercise-04c-Enemies
 
 ## Implementation
+Added tilemap coins.
 
 ## References
 
@@ -12,6 +13,7 @@ Pixel Platformer tiles provided by Kenney.nl
 https://kenney.nl/assets/pixel-platformer
 
 ## Future Development
+Further enhancing for Project 04, TBD yet.
 
 ## Created by
-Nathan Mishler
+Izzy Holmes
