@@ -7,7 +7,7 @@
     - Diferent sprites (+1)
     - Music + SFX (+1)
     - Elaborate levels (+1)
-    - Overall polish (+1)
+    - Main Menu, a AKA juciness feature (+1)
 
 
 ## References
