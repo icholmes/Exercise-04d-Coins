@@ -10,7 +10,7 @@ A 2D platformer game that takes you through various biomes with different obstac
     - Different sprites for enemies (+1)
     - Music + SFX (+1)
     - Elaborate levels (+1)
-    - Main Menu, a AKA juciness feature (+1)
+    - Start game experience (+1)
     - Overall polish (+1)
 
 ## References
