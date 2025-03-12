@@ -26,7 +26,10 @@ Enemy sprites provided by Pixel Frog
 https://pixelfrog-assets.itch.io/pixel-adventure-1
 https://pixelfrog-assets.itch.io/pixel-adventure-2
 
-SFX courtesy of Pixabay.com 
+SFX courtesy of Pixabay.com
+
+Music courtesy of David Renda
+https://www.fesliyanstudios.com/royalty-free-music/download/8-bit-adventure/2282
 
 ## Future Development
 N/A
