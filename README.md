@@ -1,7 +1,7 @@
 # Project 04—2D Platformer
 
 ## "Terrainer"
-A 2D platformer game that takes you through various biomes with increasing difficulty. Collect coins and defeat perlious enemies as you make your way through this fun, parkour-style game!
+A 2D platformer game that takes you through various biomes with different obstacles of increasing difficulty. Collect coins and defeat perlious enemies as you make your way through this fun, parkour-style game!
 
 ## Implementation
 - Includes all base requirements EXCEPT for a score tracker (+14)
