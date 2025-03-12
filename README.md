@@ -12,7 +12,6 @@ A 2D platformer game that takes you through various biomes with increasing diffi
     - Elaborate levels (+1)
     - Main Menu, a AKA juciness feature (+1)
 
-
 ## References
 
 Character Controller adapted from Sebastion Lague's Unity 5 Character Controller Tutorials
@@ -21,6 +20,10 @@ https://github.com/SebLague/2DPlatformer-Tutorial
 
 Pixel Platformer tiles provided by Kenney.nl
 https://kenney.nl/assets/pixel-platformer
+
+Enemy sprites provided by Pixel Frog
+https://pixelfrog-assets.itch.io/pixel-adventure-1
+https://pixelfrog-assets.itch.io/pixel-adventure-2
 
 ## Future Development
 N/A
