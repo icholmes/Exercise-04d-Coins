@@ -1,7 +1,14 @@
-# Exercise-04c-Enemies
+# Project 04—2D Platformer
 
 ## Implementation
-Added tilemap coins.
+- Inludes all base requirements EXCEPT for a score tracker (+14)
+- Extra features
+    - Multiple levels (+1)
+    - Diferent sprites (+1)
+    - Music + SFX (+1)
+    - Elaborate levels (+1)
+    - Main Menu, a AKA juciness feature (+1)
+
 
 ## References
 
@@ -13,7 +20,7 @@ Pixel Platformer tiles provided by Kenney.nl
 https://kenney.nl/assets/pixel-platformer
 
 ## Future Development
-Further enhancing for Project 04, TBD yet.
+N/A
 
 ## Created by
 Izzy Holmes
