@@ -25,6 +25,8 @@ Enemy sprites provided by Pixel Frog
 https://pixelfrog-assets.itch.io/pixel-adventure-1
 https://pixelfrog-assets.itch.io/pixel-adventure-2
 
+SFX courtesy of Pixabay.com 
+
 ## Future Development
 N/A
 
