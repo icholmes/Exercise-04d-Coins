@@ -11,6 +11,7 @@ A 2D platformer game that takes you through various biomes with different obstac
     - Music + SFX (+1)
     - Elaborate levels (+1)
     - Main Menu, a AKA juciness feature (+1)
+    - Overall polish (+1)
 
 ## References
 
@@ -24,6 +25,11 @@ https://kenney.nl/assets/pixel-platformer
 Enemy sprites provided by Pixel Frog
 https://pixelfrog-assets.itch.io/pixel-adventure-1
 https://pixelfrog-assets.itch.io/pixel-adventure-2
+
+SFX courtesy of Pixabay.com
+
+Music courtesy of David Renda
+https://www.fesliyanstudios.com/royalty-free-music/download/8-bit-adventure/2282
 
 ## Future Development
 N/A
