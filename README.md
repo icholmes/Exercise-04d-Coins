@@ -4,7 +4,7 @@
 - Inludes all base requirements EXCEPT for a score tracker (+14)
 - Extra features
     - Multiple levels (+1)
-    - Different sprites (+1)
+    - Different sprites for enemies (+1)
     - Music + SFX (+1)
     - Elaborate levels (+1)
     - Main Menu, a AKA juciness feature (+1)
