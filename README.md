@@ -1,7 +1,7 @@
 # Project 04—2D Platformer
 
 ## Implementation
-- Inludes all base requirements (+15)
+- Inludes all base requirements EXCEPT for a score tracker (+14)
 - Extra features
     - Multiple levels (+1)
     - Diferent sprites (+1)
